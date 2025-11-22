@@ -51,9 +51,7 @@ export default function ChatInterface() {
       ];
 
       // CALLING THE AI WITH CHAT HISTORY
-      const result = await window.puter.ai.chat(chatHistory, {
-        model: "gpt-4o-mini",
-      });
+      const result = await window.puter.ai.chat(chatHistory);
       
       const assistantMessage: Message = {
         role: "assistant",
