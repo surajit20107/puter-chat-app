@@ -23,8 +23,8 @@ A modern AI-powered chat interface built with Next.js and powered by Puter's AI 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/surajit20107/[your-repo-name].git
-cd [your-repo-name]
+git clone https://github.com/surajit20107/puter-chat-app.git
+cd puter-chat-app
 ```
 
 2. Install dependencies:
